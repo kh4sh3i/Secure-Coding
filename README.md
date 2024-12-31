@@ -1173,7 +1173,11 @@ This document provides a concise checklist of secure coding practices based on t
 
 
 
-
+# Tips
+this document is a copy of owasp secure coding practices check list section, i gather this infor
+## اعتبار
+این چک‌لیست بر اساس [OWASP Secure Coding Practices Guide](https://owasp.org/www-project-secure-coding-practices-quick-reference-guide/) ایجاد شده است.  
+تمامی حقوق برای OWASP محفوظ است.
 
 
 # Reference
