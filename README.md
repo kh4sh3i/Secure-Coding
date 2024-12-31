@@ -13,6 +13,9 @@
 design base on The OWASP Secure Coding Practices
 
 
+<style>
+    #fa .task-list-item-checkbox {margin: 0px;}
+</style>
 
 
 
@@ -594,7 +597,7 @@ design base on The OWASP Secure Coding Practices
 # چک‌لیست شیوه‌های کدنویسی امن
 
 ## اعتبارسنجی ورودی
-
+<span id="fa" style="direction: rtl;">
 - [ ]   تمامی ورودی‌ها می‌بایست در یک سیستم مورد اعتماد اعتبارسنجی گردد - سمت سرور و نه تنها سمت کاربر
 
 - [ ]   همه منابع اطلاعاتی را شناسایی کنید و آن‌ها را به دو دسته قابل اعتماد و غیرقابل اعتماد طبقه‌بندی کنید
@@ -1166,7 +1169,7 @@ design base on The OWASP Secure Coding Practices
 
 - [ ]   بروزرسانی می‌بایست به صورت ایمن و از طریق کانال‌های رمزنگاری شده اجرا شود
 
-
+</span>
 
 
 
