@@ -10,12 +10,9 @@
 </h1>
 
 # Secure Coding
-design base on The OWASP Secure Coding Practices
+This document provides a concise checklist of secure coding practices based on the OWASP Secure Coding Practices Guide. It aims to help developers integrate security into the software development lifecycle (SDLC).
 
 
-<style>
-    #fa .task-list-item-checkbox {margin: 0px;}
-</style>
 
 
 
